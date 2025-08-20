@@ -8,6 +8,7 @@ parallel-jobs = 2
 
 [Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 arch = "arm64-v8a"
 build-mode = "module"
 version = "latest"
@@ -20,6 +21,8 @@ excluded-patches = "'Change form factor' 'Hide timestamp' 'Miniplayer' 'Custom p
 
 [Spotify]
 apkmirror-dlurl = "https://apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
+uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 arch = "arm64-v8a"
 build-mode = "module"
 version = "latest"
