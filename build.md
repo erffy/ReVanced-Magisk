@@ -1,3 +1,4 @@
+Spotify: 9.0.72.949  
 YouTube: 20.13.41  
 Instagram: 394.0.0.46.81  
 
