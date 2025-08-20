@@ -16,7 +16,7 @@ version = "latest"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 arch = "arm64-v8a"
 build-mode = "module"
-excluded-patches = "'Change form factor' 'Hide timestamp' 'Miniplayer' 'Custom player overlay opacity' 'Return YouTube Dislike' 'Open Shorts in regular player' 'Change start page' 'Announcements' 'Enable debugging' 'Check watch history domain name resolution' 'GmsCore support' 'Disable HDR video' 'Playback speed'"
+excluded-patches = "'Change form factor' 'Hide timestamp' 'Miniplayer' 'Custom player overlay opacity' 'Return YouTube Dislike' 'Open Shorts in regular player' 'Change start page' 'Announcements' 'Enable debugging' 'Check watch history domain name resolution' 'Disable HDR video' 'Playback speed'"
 
 [Spotify]
 apkmirror-dlurl = "https://apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
